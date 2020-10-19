@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas_UserProfile</string>
+    <string name="nama_saya">M. Halim As-Siddiqi</string>
+    <string name="username">sweeney</string>
+    <string name="email_saya">halim.assiddiqi@gmail.com</string>
+    <string name="kontak_saya">+622934875</string>
+    <string name="tgl_lahir_saya">31-12-1999</string>
+</resources>
